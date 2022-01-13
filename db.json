@@ -1,0 +1,54 @@
+{
+  "doctors": [
+    {
+      "name": "Phạm Thị Bích Đào",
+      "position": "PGS.TS",
+      "major": "Tai Mũi Họng",
+      "work": "BÁC SĨ ƠI - PHÒNG KHÁM O2O",
+      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/test_b6fdadb7_445d_4a6a_ac5c_0ad3c31cdd67.png",
+      "experience": "25",
+      "detail": "BS.PGS.TS <br>Bác sĩ nội trú <br>25 năm trong chuyên ngành Tai Mũi Họng <br>- Chữa các bệnh vùng Tai- Mũi - Hong: viêm tai, viêm mũi xoang, viêm họng, viêm loét họng, miệng, tăng tiết nước bọt vùng khoang miệng... bệnh lý các khối u vùng đầu mặt cổ <br>- Chuyên gia về trị liệu giọng nói cho những người làm các nghề liên quan đến giọng như phát thanh viên, ca sĩ, giáo viên... <br>- Các rối loạn giọng sau phẫu thuật <br>- Chuyên gia điều trị chóng mặt, rối loạn thăng bằng, ù tai <br>- Điều trị các đau mạn tính vùng sọ mặt, vùng lưỡi",
+      "id": "1"
+     },
+     {
+      "name": "Nguyễn Quang",
+      "position": "PGS.TS",
+      "major": "TT Nam học",
+      "work": "Bệnh viện Hữu Nghị Việt Đức",
+      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/psg-nguyen-quang-bv-viet-duc_e54adbb8_6d30_40fd_98dd_7abc913665f7.jpg",
+      "experience": "5",
+      "detail": "BS.PGS.TS <br>Bác sĩ nội trú <br>25 năm trong chuyên ngành Tai Mũi Họng <br>- Chữa các bệnh vùng Tai- Mũi - Hong: viêm tai, viêm mũi xoang, viêm họng, viêm loét họng, miệng, tăng tiết nước bọt vùng khoang miệng... bệnh lý các khối u vùng đầu mặt cổ <br>- Chuyên gia về trị liệu giọng nói cho những người làm các nghề liên quan đến giọng như phát thanh viên, ca sĩ, giáo viên... <br>- Các rối loạn giọng sau phẫu thuật <br>- Chuyên gia điều trị chóng mặt, rối loạn thăng bằng, ù tai <br>- Điều trị các đau mạn tính vùng sọ mặt, vùng lưỡi",
+      "id": "2"
+     },
+     {
+      "name": "Định Ngọc Sơn",
+      "position": "PGS.TS",
+      "major": "Phẫu Thuật Cột sống",
+      "work": "Bệnh viện Hữu Nghị Việt Đức",
+      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/dinh-ngoc-son-viet-duc_7585710f_4f4e_4d6e_aeaf_42dd1158375a.jpg",
+      "experience": "5",
+      "detail": "BS.PGS.TS <br>Bác sĩ nội trú <br>25 năm trong chuyên ngành Tai Mũi Họng <br>- Chữa các bệnh vùng Tai- Mũi - Hong: viêm tai, viêm mũi xoang, viêm họng, viêm loét họng, miệng, tăng tiết nước bọt vùng khoang miệng... bệnh lý các khối u vùng đầu mặt cổ <br>- Chuyên gia về trị liệu giọng nói cho những người làm các nghề liên quan đến giọng như phát thanh viên, ca sĩ, giáo viên... <br>- Các rối loạn giọng sau phẫu thuật <br>- Chuyên gia điều trị chóng mặt, rối loạn thăng bằng, ù tai <br>- Điều trị các đau mạn tính vùng sọ mặt, vùng lưỡi",
+      "id": "3"
+     },
+     {
+      "name": "Lê Phong",
+      "position": "TS",
+      "major": "Nội tiết",
+      "work": "Bệnh viện Hữu Nghị Việt Đức",
+      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/bs_6ea56145_10e3_4075_86d5_754430729407.png",
+      "experience": "4",
+      "detail": "BS.PGS.TS <br>Bác sĩ nội trú <br>25 năm trong chuyên ngành Tai Mũi Họng <br>- Chữa các bệnh vùng Tai- Mũi - Hong: viêm tai, viêm mũi xoang, viêm họng, viêm loét họng, miệng, tăng tiết nước bọt vùng khoang miệng... bệnh lý các khối u vùng đầu mặt cổ <br>- Chuyên gia về trị liệu giọng nói cho những người làm các nghề liên quan đến giọng như phát thanh viên, ca sĩ, giáo viên... <br>- Các rối loạn giọng sau phẫu thuật <br>- Chuyên gia điều trị chóng mặt, rối loạn thăng bằng, ù tai <br>- Điều trị các đau mạn tính vùng sọ mặt, vùng lưỡi",
+      "id": "4"
+     },
+     {
+      "name": "Nguyễn Sỹ Đức",
+      "position": "TS",
+      "major": "Nội tiết",
+      "work": "BÁC SĨ ƠI - PHÒNG KHÁM O2O",
+      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/12345_575ac987_c546_45df_9feb_b5a740a9e9b2.jpg",
+      "experience": "4",
+      "detail": "BS.PGS.TS <br>Bác sĩ nội trú <br>25 năm trong chuyên ngành Tai Mũi Họng <br>- Chữa các bệnh vùng Tai- Mũi - Hong: viêm tai, viêm mũi xoang, viêm họng, viêm loét họng, miệng, tăng tiết nước bọt vùng khoang miệng... bệnh lý các khối u vùng đầu mặt cổ <br>- Chuyên gia về trị liệu giọng nói cho những người làm các nghề liên quan đến giọng như phát thanh viên, ca sĩ, giáo viên... <br>- Các rối loạn giọng sau phẫu thuật <br>- Chuyên gia điều trị chóng mặt, rối loạn thăng bằng, ù tai <br>- Điều trị các đau mạn tính vùng sọ mặt, vùng lưỡi",
+      "id": "5"
+     }
+  ]
+}

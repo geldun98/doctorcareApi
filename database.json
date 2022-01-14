@@ -8,9 +8,9 @@
       "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/test_b6fdadb7_445d_4a6a_ac5c_0ad3c31cdd67.png",
       "experience": "25",
       "detail": "BS.PGS.TS <br>Bác sĩ nội trú <br>25 năm trong chuyên ngành Tai Mũi Họng <br>- Chữa các bệnh vùng Tai- Mũi - Hong: viêm tai, viêm mũi xoang, viêm họng, viêm loét họng, miệng, tăng tiết nước bọt vùng khoang miệng... bệnh lý các khối u vùng đầu mặt cổ <br>- Chuyên gia về trị liệu giọng nói cho những người làm các nghề liên quan đến giọng như phát thanh viên, ca sĩ, giáo viên... <br>- Các rối loạn giọng sau phẫu thuật <br>- Chuyên gia điều trị chóng mặt, rối loạn thăng bằng, ù tai <br>- Điều trị các đau mạn tính vùng sọ mặt, vùng lưỡi",
-      "id":1
-     },
-     {
+      "id": 1
+    },
+    {
       "name": "Nguyễn Quang",
       "position": "PGS.TS",
       "major": "TT Nam học",
@@ -19,8 +19,8 @@
       "experience": "5",
       "detail": "BS.PGS.TS <br>Bác sĩ nội trú <br>25 năm trong chuyên ngành Tai Mũi Họng <br>- Chữa các bệnh vùng Tai- Mũi - Hong: viêm tai, viêm mũi xoang, viêm họng, viêm loét họng, miệng, tăng tiết nước bọt vùng khoang miệng... bệnh lý các khối u vùng đầu mặt cổ <br>- Chuyên gia về trị liệu giọng nói cho những người làm các nghề liên quan đến giọng như phát thanh viên, ca sĩ, giáo viên... <br>- Các rối loạn giọng sau phẫu thuật <br>- Chuyên gia điều trị chóng mặt, rối loạn thăng bằng, ù tai <br>- Điều trị các đau mạn tính vùng sọ mặt, vùng lưỡi",
       "id": 2
-     },
-     {
+    },
+    {
       "name": "Định Ngọc Sơn",
       "position": "PGS.TS",
       "major": "Phẫu Thuật Cột sống",
@@ -29,8 +29,8 @@
       "experience": "5",
       "detail": "BS.PGS.TS <br>Bác sĩ nội trú <br>25 năm trong chuyên ngành Tai Mũi Họng <br>- Chữa các bệnh vùng Tai- Mũi - Hong: viêm tai, viêm mũi xoang, viêm họng, viêm loét họng, miệng, tăng tiết nước bọt vùng khoang miệng... bệnh lý các khối u vùng đầu mặt cổ <br>- Chuyên gia về trị liệu giọng nói cho những người làm các nghề liên quan đến giọng như phát thanh viên, ca sĩ, giáo viên... <br>- Các rối loạn giọng sau phẫu thuật <br>- Chuyên gia điều trị chóng mặt, rối loạn thăng bằng, ù tai <br>- Điều trị các đau mạn tính vùng sọ mặt, vùng lưỡi",
       "id": 3
-     },
-     {
+    },
+    {
       "name": "Lê Phong",
       "position": "TS",
       "major": "Nội tiết",
@@ -39,8 +39,8 @@
       "experience": "4",
       "detail": "BS.PGS.TS <br>Bác sĩ nội trú <br>25 năm trong chuyên ngành Tai Mũi Họng <br>- Chữa các bệnh vùng Tai- Mũi - Hong: viêm tai, viêm mũi xoang, viêm họng, viêm loét họng, miệng, tăng tiết nước bọt vùng khoang miệng... bệnh lý các khối u vùng đầu mặt cổ <br>- Chuyên gia về trị liệu giọng nói cho những người làm các nghề liên quan đến giọng như phát thanh viên, ca sĩ, giáo viên... <br>- Các rối loạn giọng sau phẫu thuật <br>- Chuyên gia điều trị chóng mặt, rối loạn thăng bằng, ù tai <br>- Điều trị các đau mạn tính vùng sọ mặt, vùng lưỡi",
       "id": 4
-     },
-     {
+    },
+    {
       "name": "Nguyễn Sỹ Đức",
       "position": "TS",
       "major": "Nội tiết",
@@ -49,30 +49,35 @@
       "experience": "4",
       "detail": "BS.PGS.TS <br>Bác sĩ nội trú <br>25 năm trong chuyên ngành Tai Mũi Họng <br>- Chữa các bệnh vùng Tai- Mũi - Hong: viêm tai, viêm mũi xoang, viêm họng, viêm loét họng, miệng, tăng tiết nước bọt vùng khoang miệng... bệnh lý các khối u vùng đầu mặt cổ <br>- Chuyên gia về trị liệu giọng nói cho những người làm các nghề liên quan đến giọng như phát thanh viên, ca sĩ, giáo viên... <br>- Các rối loạn giọng sau phẫu thuật <br>- Chuyên gia điều trị chóng mặt, rối loạn thăng bằng, ù tai <br>- Điều trị các đau mạn tính vùng sọ mặt, vùng lưỡi",
       "id": 5
-     }
+    },
+    {
+      "username": "levietdung",
+      "password": "123",
+      "id": 6
+    }
   ],
   "userupdate": [
     {
-      "id":1,
-       "name":"levietdung",
-       "email":"geldun98@gmail.com",
-       "dob":"14/01/2022",
-       "gender":"Male",
-       "phone":"090909090",
-       "address":"Vinh Phuc",
-       "job":"coder"
+      "id": 1,
+      "name": "levietdung",
+      "email": "geldun98@gmail.com",
+      "dob": "14/01/2022",
+      "gender": "Male",
+      "phone": "090909090",
+      "address": "Vinh Phuc",
+      "job": "coder"
     }
   ],
   "doctorupdate": [
     {
-      "id":2,
-       "name":"levietdung1",
-       "email":"geldun981@gmail.com",
-       "hospital":"Bạch Mai",
-       "major":"Mắt",
-       "degree":"Tiến Sĩ",
-       "exp":"15",
-      "time":"15"
+      "id": 2,
+      "name": "levietdung1",
+      "email": "geldun981@gmail.com",
+      "hospital": "Bạch Mai",
+      "major": "Mắt",
+      "degree": "Tiến Sĩ",
+      "exp": "15",
+      "time": "15"
     }
   ]
 }
